@@ -80,6 +80,10 @@ This project showcased a **maturing skillset**:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 👤 Author's Reflection
 
 This "Old Portfolio" was a pivotal project. It was the point where I consolidated my fundamental skills and deliberately pushed into more creative, technical territory with the interactive background. It wasn't just a collection of pages; it was a **complete, atmospheric experience** I built to showcase my work. Every design and code decision made here became a lesson that directly shaped the more polished, effective portfolio I use today.
