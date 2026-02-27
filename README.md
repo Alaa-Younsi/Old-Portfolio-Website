@@ -6,6 +6,12 @@
 
 **Live Demo:** [https://alaa-younsi.github.io/Old-Portfolio-Website/](https://alaa-younsi.github.io/Old-Portfolio-Website/)
 
+![Homepage](screenshot1.png)
+![Services Section](screenshot2.png)
+![Blog Section](screenshot3.png)
+![Homepage](screenshot4.png)
+![Services Section](screenshot5.png)
+
 ---
 
 ## 🎯 Project Purpose & Evolution
