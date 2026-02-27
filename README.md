@@ -88,7 +88,8 @@ This project showcased a **maturing skillset**:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+PORTFOLIO SHOWCASE LICENSE
+Copyright (c) 2024 Alaa Younsi. All rights reserved.
 
 ## 👤 Author's Reflection
 
